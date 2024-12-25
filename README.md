@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hi there! I'm **[Mohamed Dhia Jebali]**, a passionate and highly skilled **DevOps Engineer** and **Fullstack Developer** with a mission to create scalable, efficient, and innovative solutions. My expertise spans across cloud infrastructure, automation, and building robust full-stack applications.
+Hi there! I'm **Mohamed Dhia Jebali**, a passionate and highly skilled **DevOps Engineer** and **Fullstack Developer** with a mission to create scalable, efficient, and innovative solutions. My expertise spans across cloud infrastructure, automation, and building robust full-stack applications.
 
 ---
 
@@ -20,10 +20,12 @@ Hi there! I'm **[Mohamed Dhia Jebali]**, a passionate and highly skilled **DevOp
 
 ### **DevOps & Cloud Technologies**
 - **Cloud Platforms:** Microsoft Azure, OpenStack
-- **Containerization:** Docker, Kubernetes
+- **Containerization & Orchestration:** Docker, Kubernetes
 - **Automation & Configuration Management:** Ansible, Terraform
 - **CI/CD Pipelines:** Jenkins
 - **Infrastructure as Code (IaC):** Terraform
+- **Code Health Monitoring:** CodeQL, SonarCloud
+- **Artifacting:** Github, DockerHub, Microsoft Azure Artifacts
 - **Monitoring & Logging:** Prometheus, Grafana
 
 ### **Fullstack Development**
