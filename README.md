@@ -2,9 +2,14 @@
 
 ## 🚀 About Me
 
-Hi there! I'm **[Your Name]**, a passionate and highly skilled **DevOps Engineer** and **Fullstack Developer** with a mission to create scalable, efficient, and innovative solutions. My expertise spans across cloud infrastructure, automation, and building robust full-stack applications.
+Hi there! I'm **Mohamed Dhia Jebali**, a passionate and highly skilled **DevOps Engineer** and **Fullstack Developer** with a mission to create scalable, efficient, and innovative solutions. My expertise spans across cloud infrastructure, automation, and building robust full-stack applications.
 
 ---
+
+## 🛠️ Tools & Technologies
+
+### **DevOps Toolkit**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 💻 Technical Expertise
 
@@ -13,13 +18,13 @@ Hi there! I'm **[Your Name]**, a passionate and highly skilled **DevOps Engineer
 - **Containerization:** Docker, Kubernetes
 - **Automation & Configuration Management:** Ansible, Terraform
 - **CI/CD Pipelines:** Jenkins, GitHub Actions
-- **Infrastructure as Code (IaC):** Terraform, Azure Resource Manager (ARM) Templates
+- **Infrastructure as Code (IaaC):** Terraform
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
 
 ### **Fullstack Development**
 - **Frontend:** Angular (SPA, Bootstrap Styling, Responsive Design)
 - **Backend:** Spring Boot (Java), Symfony (PHP), .NET
-- **Database Systems:** MySQL, PostgreSQL, MongoDB
+- **Database Systems:** MySQL, Firebase
 - **API Development:** RESTful APIs, GraphQL
 - **Authentication & Security:** OAuth2, JWT, Spring Security, Symfony Security
 
@@ -39,15 +44,6 @@ Hi there! I'm **[Your Name]**, a passionate and highly skilled **DevOps Engineer
 
 ---
 
-## 🛠️ Tools & Technologies
-
-### **DevOps Toolkit**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### **Development Toolkit**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
