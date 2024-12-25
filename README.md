@@ -59,9 +59,9 @@ Hi there! I'm **[Mohamed Dhia Jebali]**, a passionate and highly skilled **DevOp
 ## 🔗 Connect with Me
 
 - **LinkedIn:** [Mohamed Dhia Jebali](https://www.linkedin.com/in/mohamed-dhia-jebali/)
-- **Personnel Outlook Email:** MDJ.Microsof@outlook.com](mailto:MDJ.Microsof@outlook.com)
-- **Personnel Gmail Email:** MDJ.Googl@gmail.com](mailto:MDJ.Googl@gmail.com)
-- **Work Email:** MohamedDhiaJebali.Work@outlook.com](mailto:MohamedDhiaJebali.Workf@outlook.com)
+- **Personnel Outlook Email:** [MDJ.Microsof@outlook.com](mailto:MDJ.Microsof@outlook.com)
+- **Personnel Gmail Email:** [MDJ.Googl@gmail.com](mailto:MDJ.Googl@gmail.com)
+- **Work Email:** [MohamedDhiaJebali.Work@outlook.com](mailto:MohamedDhiaJebali.Workf@outlook.com)
 
 ---
 
